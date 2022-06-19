@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dedf19d0367e59d43b9313df1da48860
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Comickes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 006ce65da70265648bbe59b7bf9bc7fa, type: 3}
+  - {fileID: 12800000, guid: acb1e705d87d10d4ea99d39384568482, type: 3}
+  - {fileID: 12800000, guid: f9966ee0761a0b2418489c969dbe7b87, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
